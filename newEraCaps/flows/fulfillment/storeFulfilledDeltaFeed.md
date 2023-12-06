@@ -23,4 +23,3 @@ While initially it was expected that this feed would be generated using the out 
 2. **Product Id:** Identifies the specific product in the order using the Shopify product SKU.
 3. **Facility Id:** Represents the identifier of the store or facility from which the product is fulfilled. For this to work the internal ID of the facilities in the OMS and Smaregi must be the same. Otherwise custom facility identification types would have to be used.
 4. **Quantity:** The quantity of the product fulfilled from the store inventory for the given order.
-5. **Status Date:** Timestamp indicating the date and time when the order fulfillment status was updated in the system in an absolute number.
